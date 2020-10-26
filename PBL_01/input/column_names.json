@@ -1,0 +1,9 @@
+{
+    "日付": "yyyy-mm-dd",
+    "店舗ID": "branch_id",
+    "商品ID": "item_id",
+    "商品価格": "sale_price",
+    "売上個数": "sale_amount",
+    "商品カテゴリID":"item_category_id",
+    "商品カテゴリ名":"item_category_name"
+}
